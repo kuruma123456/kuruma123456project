@@ -1,2 +1,3 @@
-# kuruma123456project
-これはkuruma123456のメインリポジトリです。
+# kuruma123456
+https://scratch.mit.edu/users/kuruma123456
+のGithubです。
