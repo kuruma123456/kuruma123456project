@@ -1,2 +1,2 @@
 # kuruma123456project
-$a
+これはkuruma123456のメインリポジトリです。
